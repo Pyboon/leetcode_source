@@ -1,0 +1,13 @@
+C:\Users\Baboon\code\leetcode\test.cpp: In function 'int main()':
+C:\Users\Baboon\code\leetcode\test.cpp:5:3: error: 'sol' was not declared in this scope
+   sol = new Solution();
+   ^
+C:\Users\Baboon\code\leetcode\test.cpp:5:13: error: expected type-specifier before 'Solution'
+   sol = new Solution();
+             ^
+C:\Users\Baboon\code\leetcode\test.cpp:8:24: error: expected primary-expression before 'a'
+   sol.addBinary(string a, string b);
+                        ^
+C:\Users\Baboon\code\leetcode\test.cpp:8:34: error: expected primary-expression before 'b'
+   sol.addBinary(string a, string b);
+                                  ^
